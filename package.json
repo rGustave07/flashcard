@@ -1,0 +1,23 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rGustave07/flashcard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rGustave07/flashcard/issues"
+  },
+  "homepage": "https://github.com/rGustave07/flashcard#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
